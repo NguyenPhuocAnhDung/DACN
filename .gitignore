@@ -1,0 +1,15 @@
+@'
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+dataset/
+data/
+models/
+results/
+
+
+.DS_Store
+Thumbs.db
+'@ | Set-Content .gitignore

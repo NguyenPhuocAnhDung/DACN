@@ -9,6 +9,11 @@ data/
 models/
 results/
 
+# artifacts nặng
+*.pkl
+*.joblib
+*.pt
+*.onnx
 
 .DS_Store
 Thumbs.db

@@ -14,6 +14,9 @@ results/
 *.joblib
 *.pt
 *.onnx
+*df_all_union.parquet
+*.h5
+*.png
 
 .DS_Store
 Thumbs.db

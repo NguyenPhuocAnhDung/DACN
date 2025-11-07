@@ -4,10 +4,16 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-dataset/
-data/
-models/
-results/
+# artifacts nặng
+*.pkl
+*.joblib
+*.pt
+*.onnx
+*df_all_union.parquet
+*.h5
+*.png
+*.csv
+*.cbm
 
 
 .DS_Store
